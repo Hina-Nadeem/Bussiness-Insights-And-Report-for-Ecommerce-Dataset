@@ -1,4 +1,4 @@
-##📊 E-Commerce Insights Dashboard – Elevvo Internship (Project 3)
+📊 E-Commerce Insights Dashboard – Elevvo Internship (Project 3)
 
 🚀 This is my third project completed during the Elevvo Internship, where I worked on E-Commerce Data Analysis & Dashboarding using Python (EDA, Data Cleaning) and Power BI (Data Visualization).
 
